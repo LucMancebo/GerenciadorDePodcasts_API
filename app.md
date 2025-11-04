@@ -44,3 +44,5 @@ GET: retorna lista de episodios
   },
 ];
 ```
+
+GET: retorna lista de episodios baseada no parametro enviado pelo cliente

@@ -1,20 +1,26 @@
 [
   {
-    "podcastName": "flow podcast",
+    "podcastName": "flow",
     "episodio": "CBUM - Flow #319",
     "videoId": "pQSuQmUfS30",
     "categories": ["saúde", "bodybuilder", "esporte"]
   },
   {
-    "podcastName": "flow podcast",
+    "podcastName": "flow",
     "episodio": "Rubens Barrichello - Flow #339",
     "videoId": "4KDGTdiOV4I",
     "categories": ["esporte", "corrida"]
   },
    {
-    "podcastName": "flow podcast",
-    "episodio": "Felipão - Flow #339",
+    "podcastName": "flow",
+    "episodio": "Felipão - Flow #399",
     "videoId": "sadf8df",
     "categories": ["esporte", "programação"]
+  },
+  {
+    "podcastName": "venus",
+    "episodio": "xuxa - venus #21",
+    "videoId": "dasdafa98",
+    "categories": ["humor"]
   }
 ]

@@ -1,5 +1,5 @@
-export interface podcast{
-    podcastname: string
+export interface podcastModel{
+    podcastName: string
     episode: string
     videoId: string
     categories: string[]
