@@ -5,13 +5,16 @@ API RESTful para gerenciamento de podcasts construída com **Node.js** e **TypeS
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Endpoints](#endpoints)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Exemplos de Código](#exemplos-de-código)
+- [🚀 Sobre o Projeto](#---sobre-o-projeto)
+- [🛠 Tecnologias](#---tecnologias)
+- [📦 Instalação](#---instala--o)
+- [🎯 Uso](#---uso)
+- [📡 Endpoints](#---endpoints)
+- [📁 Estrutura do Projeto](#---estrutura-do-projeto)
+- [💻 Exemplos de Código](#---exemplos-de-c-digo)
+- [📚 Documentação de Referência](#---documenta--o-de-refer-ncia)
+- [🤝 Como Contribuir](#---como-contribuir)
+
 
 ## 🚀 Sobre o Projeto
 
